@@ -88,7 +88,7 @@ Instacart operates within a complex four-sided marketplace including customers, 
 - **`Instacart_code.ipynb`**: Jupyter Notebook containing the optimization model and analysis.
 - **`data.xlsx`**: Input dataset for simulated demand and traffic conditions.
 - **`result.csv`**: Output file summarizing optimized routes and timings.
-- **`Instachart_V_Final.pptx`**: Final presentation summarizing project objectives, methodology, and key findings.
+- **`Instachart_V_Final.pdf`**: Final presentation summarizing project objectives, methodology, and key findings.
 
 ---
 
