@@ -100,7 +100,7 @@ Instacart operates within a complex four-sided marketplace including customers, 
 ---
 
 ## Acknowledgments
-This project was completed as part of the INSY662 course at McGill University, in collaboration with **Shuxi Chen**, **Henry Tang**, **Samarth Annigeri** and **Jintao Li**.
+This project was completed as part of the MGSC662 course at McGill University, in collaboration with **Shuxi Chen**, **Henry Tang**, **Samarth Annigeri** and **Jintao Li**.
 
 ---
 
